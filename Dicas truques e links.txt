@@ -1,2 +1,5 @@
  - Utilizando AutoMapper com view models
    https://www.eduardopires.net.br/2013/08/asp-net-mvc-utilizando-automapper-com-view-model-pattern/
+
+ - Engenharia reversa do Database para classes POCO
+   https://www.entityframeworktutorial.net/code-first/code-first-from-existing-database.aspx
