@@ -1,0 +1,7 @@
+1975
+7182
+7194
+
+antes do 7196
+
+dominio rico cqrs automapper repository fluentapi viewmodels 
