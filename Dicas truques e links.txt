@@ -3,3 +3,6 @@
 
  - Engenharia reversa do Database para classes POCO
    https://www.entityframeworktutorial.net/code-first/code-first-from-existing-database.aspx
+
+ - Trabalhando com ITextSharp para gerar PDFs.
+   https://www.devmedia.com.br/criando-e-manipulando-arquivos-pdf-com-a-biblioteca-itextsharp-em-csharp/33392
