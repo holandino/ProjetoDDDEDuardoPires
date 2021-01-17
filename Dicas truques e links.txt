@@ -3,3 +3,6 @@
 
  - Engenharia reversa do Database para classes POCO
    https://www.entityframeworktutorial.net/code-first/code-first-from-existing-database.aspx
+
+ - Alguns links interessantes sobre Angular , .Net Core
+  https://github.com/holandino/Template-DotNetCore
