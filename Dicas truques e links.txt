@@ -6,3 +6,6 @@
 
  - Alguns links interessantes sobre Angular , .Net Core
   https://github.com/holandino/Template-DotNetCore
+  
+ - Trabalhando com ITextSharp para gerar PDFs.
+   https://www.devmedia.com.br/criando-e-manipulando-arquivos-pdf-com-a-biblioteca-itextsharp-em-csharp/33392
